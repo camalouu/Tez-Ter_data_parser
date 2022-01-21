@@ -1,4 +1,4 @@
-# Generates json data for Tez-Ter app
+# Transforms text to json data for Tez-Ter app
 
 Requirements: NodeJS. Download: https://nodejs.org/
 
