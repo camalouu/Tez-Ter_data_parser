@@ -1,6 +1,6 @@
-# Tez-Ter_data_parser
+# Generates json data for Tez-Ter app
 
-Generates json data for Tez-Ter app
+Requirements: NodeJS. Download: https://nodejs.org/
 
 put your text file into texData directory
 
