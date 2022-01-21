@@ -1,0 +1,14 @@
+{
+  "name": "tezter_data_generator",
+  "version": "1.0.0",
+  "description": "This program generates json data for Tez-Ter",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "any-text": "^1.2.0"
+  }
+}
